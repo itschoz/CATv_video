@@ -1,0 +1,8 @@
+prefix=/home/cho/catvehicle_ws/devel
+
+Name: obstaclestopper
+Description: Description of obstaclestopper
+Version: 1.0.1
+Cflags: 
+Libs: -L/home/cho/catvehicle_ws/devel/lib 
+Requires: geometry_msgs roscpp std_msgs

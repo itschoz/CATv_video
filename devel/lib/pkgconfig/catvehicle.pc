@@ -1,0 +1,8 @@
+prefix=/home/cho/catvehicle_ws/devel
+
+Name: catvehicle
+Description: Description of catvehicle
+Version: 2.0.2
+Cflags: -I/home/cho/catvehicle_ws/src/catvehicle/include
+Libs: -L/home/cho/catvehicle_ws/devel/lib -lcatvehicle
+Requires: geometry_msgs roscpp rospy sensor_msgs std_msgs velodyne_pointcloud tf
